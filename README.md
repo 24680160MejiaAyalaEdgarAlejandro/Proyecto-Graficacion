@@ -325,4 +325,18 @@ La Unidad 1 de <b>Graficación</b> nos ha llevado desde los fundamentos históri
 
 </div>
 
+<div align="center">
+<h1> 📚 Bibliografía y Referencias </h1>
+</div>
 
+La elaboración de este repositorio y el desarrollo de las prácticas se fundamentan en las siguientes fuentes académicas bajo el estándar APA 7ma Edición:
+
+📘 Hearn, D., & Baker, M. P. (2006). Gráficas por computadora con OpenGL (3ra ed.). Pearson Educación.
+
+📗 Hughes, J. F., Van Dam, A., Foley, J. D., & Feiner, S. K. (2013). Computer Graphics: Principles and Practice (3rd ed.). Addison-Wesley Professional.
+
+📕 Tecnológico Nacional de México. (s.f.). Programa de Estudios: Graficación (SCC-1010). Dirección de Docencia e Innovación Educativa.
+
+📒 Blender Foundation. (2024). Blender 5.0 Reference Manual: Python API Documentation. Recuperado de https://docs.blender.org/api/
+
+📙 Sutherland, I. E. (2003). Sketchpad: A man-machine graphical communication system. (Obra original publicada en 1963). University of Cambridge.
